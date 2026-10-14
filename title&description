@@ -1,0 +1,94 @@
+================================================================================
+YOUTUBE VIDEO TITLE OPTIONS
+================================================================================
+
+Option 1 (Beginner Friendly & Complete Guide - Recommended):
+JavaScript DOM Tutorial for Beginners - Learn DOM Manipulation from Scratch
+
+Option 2 (Search / SEO Optimized):
+JavaScript DOM Full Course - Selectors, Event Listeners & Manipulation Explained
+
+Option 3 (Practical & Project-Based):
+Learn JavaScript DOM in 30 Minutes: Complete Guide + Practice Project
+
+Option 4 (Concise & Clear):
+Master JavaScript DOM: getElementById, querySelector, Events & Exercises
+
+
+================================================================================
+YOUTUBE VIDEO DESCRIPTION (Copy & Paste to YouTube)
+================================================================================
+
+Master the JavaScript Document Object Model (DOM) from complete beginner to building interactive web pages! In this video, you will learn how to select elements, change content, modify CSS styles, handle events, and build interactive projects step by step.
+
+Get the Full Source Code & Notes on GitHub:
+https://github.com/Tan-Saphea/JavaScript-DOM
+
+--------------------------------------------------------------------------------
+TIMESTAMPS / CHAPTERS
+--------------------------------------------------------------------------------
+00:00 - Introduction: What is the DOM?
+01:30 - Understanding the DOM Tree (Window vs Document)
+03:15 - Selecting Elements by ID (getElementById)
+06:45 - Selecting Elements by Class Name (getElementsByClassName)
+10:20 - Selecting Elements by Tag Name (getElementsByTagName)
+13:50 - Working with Form Controls (getElementsByName)
+17:30 - Modern Selectors: querySelector & querySelectorAll
+22:10 - HTMLCollection vs NodeList Explained
+25:40 - Modifying Text & Content (textContent, innerText, innerHTML)
+29:15 - Changing CSS Styles Dynamically via JavaScript
+33:00 - Handling Events with addEventListener
+37:20 - Hands-on Project: Interactive Student Card Application
+45:00 - Summary & Key Takeaways
+
+--------------------------------------------------------------------------------
+WHAT YOU WILL LEARN IN THIS VIDEO
+--------------------------------------------------------------------------------
+* What the Document Object Model (DOM) is and how browsers create it
+* How to use getElementById, getElementsByClassName, and getElementsByTagName
+* How to select radio buttons, checkboxes, and form inputs using getElementsByName
+* How to use modern CSS selectors with querySelector and querySelectorAll
+* Key differences between HTMLCollection and NodeList (live vs static)
+* How to safely update text with textContent and form values with .value
+* How to dynamically manipulate CSS styles (colors, fonts, display none/block)
+* How to handle user interactions using addEventListener ('click', 'input')
+* Step-by-step walkthrough of a practical project with reset functionality
+
+--------------------------------------------------------------------------------
+PROJECT & EXERCISE CODE
+--------------------------------------------------------------------------------
+All code files, HTML templates, CSS styles, and JavaScript scripts used in this
+video are organized by topic and available on GitHub:
+https://github.com/Tan-Saphea/JavaScript-DOM
+
+Folders included in the repository:
+- getElementById: Basic selection and text/color manipulation
+- getElementsByClassName: Batch styling on HTMLCollections
+- getElementsByTagName: Working with multiple HTML tags
+- getElementsByName: Form submission and radio button selections
+- querySelector: Modern CSS selector patterns
+- Exercise/querySelector: Complete interactive student profile card project
+
+--------------------------------------------------------------------------------
+PREREQUISITES
+--------------------------------------------------------------------------------
+* Basic understanding of HTML and CSS
+* Fundamental JavaScript syntax (variables, functions, loops)
+
+--------------------------------------------------------------------------------
+SUPPORT & COMMUNITY
+--------------------------------------------------------------------------------
+If you found this lesson helpful:
+- Like the video to support the channel
+- Subscribe for more web development tutorials
+- Drop your questions in the comments below, and I will be happy to help!
+
+--------------------------------------------------------------------------------
+TAGS (Copy into YouTube Video Tags box)
+--------------------------------------------------------------------------------
+javascript dom, javascript dom tutorial, learn javascript dom, javascript for beginners, dom manipulation, getelementbyid, queryselector, queryselectorall, getelementsbyclassname, getelementsbytagname, getelementsbyname, javascript events, addeventlistener, javascript course, web development, frontend development, javascript tutorial 2026
+
+--------------------------------------------------------------------------------
+HASHTAGS
+--------------------------------------------------------------------------------
+#JavaScript #WebDevelopment #DOM #JavaScriptTutorial #Frontend #Coding #LearnJavaScript #HTML #CSS
